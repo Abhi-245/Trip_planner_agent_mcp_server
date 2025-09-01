@@ -1,9 +1,6 @@
-# Trip_planner_agent_mcp_server
+# 🧳 MCP Travel Planner Agent Team  
 Streamlit-based AI travel planner using multi-agent MCP architecture. Integrates Airbnb MCP for real-time stays and Google Maps MCP for precise distances. Delivers detailed itineraries with costs, buffer times, weather, dining, and attractions, plus calendar export and budget insights.
 
-# 🧳 MCP Travel Planner Agent Team  
-
-A sophisticated **Streamlit-based AI travel planning application** that creates extremely detailed, personalized itineraries using **multiple MCP servers** and **Google Maps integration**.  
 
 The app leverages:  
 - **Airbnb MCP** for real accommodation data  
